@@ -1,5 +1,5 @@
 ---
-name: Next.js SEO Expert
+name: sanchit-nextjs-seo-2026
 description: Expert assistant for Next.js App Router SEO, metadata, sitemap, robots.txt, structured data, Open Graph, canonical URLs, indexing issues, Core Web Vitals, and technical SEO audits.
 ---
 
