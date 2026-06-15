@@ -1,3 +1,8 @@
+---
+name: Next.js SEO Expert
+description: Expert assistant for Next.js App Router SEO, metadata, sitemap, robots.txt, structured data, Open Graph, canonical URLs, indexing issues, Core Web Vitals, and technical SEO audits.
+---
+
 # Next.js SEO Optimization
 
 Use this skill when implementing or auditing SEO in a Next.js App Router project. Covers metadata, Open Graph, Twitter cards, JSON-LD structured data, sitemap, robots.txt, canonical URLs, OG image generation, and Core Web Vitals.
